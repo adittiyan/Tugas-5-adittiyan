@@ -1,0 +1,74 @@
+.ADIT {
+    position: relative;
+    width: 1135px;
+    height: 680px;
+    background-color: white;
+    margin: auto;
+}
+
+.ADIT1 {
+    float: left;
+    width: 200px;
+    height: 90px;
+    background-color: red;
+    border-radius: 0.5em;
+    margin-left: 1em;
+    margin-top: 1em;
+    border: 2px solid black;
+}
+
+.ADIT2 {
+    float: left;
+    width: 720px;
+    height: 90px;
+    background-color:red;
+    border-radius: 0.5em;
+    margin-left: 1em;
+    margin-top: 1em;
+    border: 2px solid black;
+}
+
+.ADIT3 {
+    float: left;
+    width: 200px;
+    height: 450px;
+    background-color:green;
+    border-radius: 0.5em;
+    margin-left: 1em;
+    margin-top: 1em;
+    border: 2px solid black;
+}
+
+.ADIT4 {
+    float: left;
+    width: 500px;
+    height: 450px;
+    background-color:blueviolet;
+    border-radius: 0.5em;
+    margin-left: 1em;
+    margin-top: 1em;
+    border: 2px solid black;
+}
+
+.ADIT5 {
+    float: left;
+    width: 200px;
+    height: 450px;
+    background-color:blue;
+    border-radius: 0.5em;
+    margin-left: 1em;
+    margin-top: 1em;
+    border: 2px solid black;
+}
+
+.ADIT6 {
+    float: left;
+    width: 940px;
+    height: 90px;
+    background-color:red;
+    border-radius: 0.5em;
+    margin-left: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    border: 2px solid black;
+}
